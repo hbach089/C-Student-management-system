@@ -273,7 +273,7 @@ void search_file(FILE*fptr,char*sn){
         if(lol==true){
             //STUDENT 1: hadi, bach, 3001, eng
             //On retourne une chaine avec la premiere occurence de :
-            //Le +2 c'est pour boujer le pointer de deux pas vers la droite
+            //Le +2 c'est pour bouger le pointer de deux pas vers la droite
             char*c=strchr(buffer,':')+2;
             printf("%s",c);
             fflush(stdout);
