@@ -2,7 +2,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include <stdbool.h>
-#include "LinkedLists.c"
+#include "LinkedLists.h"
 #include <ctype.h>
 #define BUFF_SIZE 1024
 
